@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Harsh Vardhan Mahawar</h1>
-<h3 align="center">🚀 LFX Mentee @ Confidential Computing Consortium and CNCF | GSoC @ SPDX, Linux Foundation | IIT Bombay 2025 🚀</h3>
+<h3 align="center">🚀 LFX Mentee @ Confidential Computing Consortium and CNCF | GSoC @ SPDX, Linux Foundation | AI/ML @ IIT Bombay 2025 🚀</h3>
 
 
 
 ---
 
 ### 🌟 **About Me**
-- 🏫 **Undergrad:** Fourth-Year Engineering Student at **IIT Bombay**.
+- 🏫 **Undergrad:** Fourth-Year AI/ML Engineering Student at **IIT Bombay**.
 - 🌐 **Passionate About:** Open-Source, Backend, DevOps, Cybersecurity, and Cloud Computing.
 
 ---
@@ -32,7 +32,7 @@
 ---
 
 ### 🏆 **Scholastic Achievements**
-- 🌟 **LFX Mentorship 2025**: Selected as a LFX Mentee @ Confidential Computing Consortium and CNCF.
+- 📄 **LFX Mentorship 2025**: Selected as a LFX Mentee @ Confidential Computing Consortium and CNCF.
 - 🌟 **Google Summer of Code 2023**: Selected in the top **2.2% of 43,765 applicants** worldwide.
 - 🛠️ **Smart India Hackathon Nominee**: Represented IIT Bombay in **SIH 2023**.
 
