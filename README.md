@@ -52,7 +52,7 @@
 ---
 
 ### 🛠️ **Noteworthy Projects**
-#### 🔗 **[Grading Assist](#)** (In-house Grader, Under guidance of Prof. Swaprava Nath, CSE Department, IIT Bombay)
+#### 🔗 **Grading Assist** (In-house Grader, Under guidance of Prof. Swaprava Nath, CSE Department, IIT Bombay)
 - 🚀 Built a PHP-based grading tool to streamline physical answer script evaluation, reducing storage costs by **50%**.
 - 📈 Achieved **98% accuracy** in data extraction for PDF parsing.
 
