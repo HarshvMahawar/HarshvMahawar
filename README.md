@@ -1,74 +1,78 @@
-<h1 align="center">Hi 👋, I'm Harsh Vardhan Mahawar</h1>
-<h3 align="center">🚀 LFX Mentee @ Confidential Computing Consortium and CNCF | GSoC @ SPDX, Linux Foundation | AI/ML @ IIT Bombay 2025 🚀</h3>
-
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00F7FF&width=800&lines=Hey+%F0%9F%91%8B%2C+I'm+Harsh+Vardhan+Mahawar!;LFX+Mentee+%40+Confidential+Computing+Consortium+%7C+CNCF;Google+Summer+of+Code+%40+SPDX%2C+Linux+Foundation;AI%2FML+%40+IIT+Bombay+2025+%F0%9F%9A%80" alt="Typing Animation">
+</h1>
 
 ---
 
 ### 🌟 **About Me**
-- 🏫 **Undergrad:** Fourth-Year AI/ML Engineering Student at **IIT Bombay**.
-- 🌐 **Passionate About:** Open-Source, Backend, DevOps, Cybersecurity, and Cloud Computing.
+- 🎓 **Undergrad:** Fourth-Year AI/ML Engineering Student at **IIT Bombay**.
+- 🔥 **Passionate About:** Open-Source, Backend, DevOps, Cybersecurity, and Cloud Computing.
 
 ---
 
 ### 💼 **My Expertise**
-#### 👨‍💻 **Programming Languages**:
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+#### 👨‍💻 **Programming Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,php,bash" width="300"/>
+</p>
 
-#### ☁️ **Cloud & DevOps**:
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+#### ☁️ **Cloud & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins" width="300"/>
+</p>
 
-#### 🔬 **Machine Learning**:
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black)
+#### 🔬 **Machine Learning**
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="100"/>
+</p>
 
 ---
 
 ### 🏆 **Scholastic Achievements**
-- 📄 **LFX Mentorship 2025**: Selected as a LFX Mentee @ Confidential Computing Consortium and CNCF.
-- 🌟 **Google Summer of Code 2023**: Selected in the top **2.2% of 43,765 applicants** worldwide.
-- 🛠️ **Smart India Hackathon Nominee**: Represented IIT Bombay in **SIH 2023**.
+- 🏅 **LFX Mentorship 2025**: Selected as a mentee @ CNCF & Confidential Computing Consortium.
+- 🚀 **Google Summer of Code 2023**: Among **top 2.2% of 43,765 applicants worldwide**.
+- 🏆 **Smart India Hackathon Nominee**: Represented IIT Bombay in **SIH 2023**.
 
 ---
 
 ### 👨‍💻 **Professional Experience**
 #### 📌 **LFX Mentorship 2025**
-- 🌐 Collaborating with the development teams of the **Confidential Computing Consortium (CCC)** project named Veraison and the **Cloud Native Computing Foundation (CNCF)** project named Keylime to harmonize open-source verifiers with the Remote Attestation Procedures (RATS) architecture.
+- 🤝 Working with **CCC & CNCF** on open-source verifiers for **Remote Attestation Procedures (RATS)**.
 
 #### 📌 **Google Summer of Code 2023**
-- 🌐 Worked with **SPDX, Linux Foundation** and **Software Heritage** to create tools for open-source security and transparency.
-- 📄 Developed a CLI tool to generate **Software Bill of Materials (SBOMs) in SPDX format** for **3.5M+ npm** and **500K+ PyPi** projects.
+- 🛠️ Built a **CLI tool for generating SPDX SBOMs** for **3.5M+ npm** and **500K+ PyPi projects**.
 
 #### 📌 **IIT Bombay Research Park**
-- 🔧 Built **CI/CD pipelines**, optimized AWS infrastructure, and wrote Django backend tests.
+- 🚀 Developed **CI/CD pipelines**, optimized AWS infrastructure, and enhanced Django backend testing.
 
 ---
 
-### 🛠️ **Noteworthy Projects**
-#### 🔗 **Grading Assist** (In-house Grader, Under guidance of Prof. Swaprava Nath, CSE Department, IIT Bombay)
-- 🚀 Built a PHP-based grading tool to streamline physical answer script evaluation, reducing storage costs by **50%**.
-- 📈 Achieved **98% accuracy** in data extraction for PDF parsing.
+### 🔥 **Noteworthy Projects**
+#### 📜 **Grading Assist** (Prof. Swaprava Nath, IIT Bombay)
+- 🚀 Created a **PHP-based grading tool**, reducing storage by **50%**.
+- 📊 Achieved **98% accuracy** in extracting data from PDFs.
 
-#### 🧩 **Event-Driven Data Platform**
-- 💡 Created a Kafka-based real-time event-processing platform with **Django**, **Docker**, and **Postman**.
-- 🛠️ Integrated robust error handling and monitoring for seamless message propagation.
+#### 🔗 **Event-Driven Data Platform**
+- 📡 Built a **Kafka-based real-time event-processing platform** with **Django** and **Docker**.
+- 🛠️ Integrated **error handling and monitoring** for message propagation.
 
-#### 🌐 **CI/CD Pipeline with Jenkins**
-- ⛓️ Designed and deployed **Groovy-based declarative pipelines** with **Docker** agents for software delivery.
-- ⚙️ Enhanced deployment reliability by **25%**.
+#### ⚡ **CI/CD Pipeline with Jenkins**
+- ⛓️ Designed **Groovy-based pipelines** with **Docker agents**, improving deployment reliability **by 25%**.
 
-#### 🌐 Automated Google Task Reports  
-- 📋 Automated **daily task retrieval and reporting** using the **Google Tasks API**, reducing manual tracking efforts.  
-- 🛠️ Built a pipeline to **categorize tasks** into completed and pending, offering a clear progress overview.  
-- ☁️ Deployed the solution on a **cloud server**, ensuring **timely and reliable task report delivery**.  
+#### ☁️ **Automated Google Task Reports**
+- 📋 Automated **daily task tracking & reporting**, reducing manual efforts **by 80%**.
+- 🌐 Deployed a **cloud-based solution** for seamless progress monitoring.
 
+---
+
+### 📊 **GitHub Stats & Activity**
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HarshvMahawar&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" width="50%">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshvMahawar&show_icons=true&theme=radical&hide_border=true" width="50%">
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshvMahawar&theme=github_dark" width="45%">
+</div>
 
 ---
 
