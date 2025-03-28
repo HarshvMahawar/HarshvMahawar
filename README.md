@@ -67,8 +67,8 @@
 
 ### 📊 **GitHub Stats & Activity**
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HarshvMahawar&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" width="50%">
-  <br/>
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=HarshvMahawar&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" width="50%">
+  <br/> -->
   <img src="https://github-readme-stats.vercel.app/api?username=HarshvMahawar&show_icons=true&theme=radical&hide_border=true" width="50%">
   <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HarshvMahawar&theme=github_dark" width="45%">
